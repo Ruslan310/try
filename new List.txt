@@ -1,0 +1,1 @@
+1. Скрипт для установки  Node.js и pm serve для Window 10
