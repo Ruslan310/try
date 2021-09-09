@@ -1,0 +1,1 @@
+npm i -g pm2 pm2-windows-startup serve && pm2-startup install && pm2 start C:/AVA/project && pm2 serve C:/AVA/project/build/ 3000 --spa --name autostart_build && pm2 save && echo Started and added to autostart successfully && cmd /k
